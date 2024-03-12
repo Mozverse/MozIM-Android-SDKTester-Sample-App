@@ -1,0 +1,80 @@
+<resources>
+
+    <string name="app_name">Mozim Test App</string>
+
+    <!-- Screen Titles -->
+    <string name="screen_title_sessions">"Sessions"</string>
+    <string name="screen_title_add_session">Add Session</string>
+    <string name="screen_title_vast_configurator">Vast Configurator</string>
+    <string name="screen_title_action_builder">Action Builder</string>
+
+    <!-- Dialog titles -->
+    <string name="dialog_title_error">Error</string>
+
+    <!-- other titles -->
+    <string name="title_no_data">No data</string>
+
+    <!-- Content descriptions -->
+    <string name="content_description_add_new_interaction_from_url">Add new interaction from url</string>
+    <string name="content_description_error_alert_icon">Error Alert Icon</string>
+    <string name="content_description_start_interaction">Start interaction</string>
+    <string name="content_description_start_interaction_in_foreground">Start interaction in foreground</string>
+    <string name="content_description_open_action_builder">Open action builder</string>
+
+    <!-- session data -->
+    <string name="label_url">Url:</string>
+    <string name="label_action">Action:</string>
+    <string name="label_trigger">Trigger:</string>
+    <string name="label_exception">Exception</string>
+    <string name="label_website">Website:</string>
+    <string name="label_phone_number">Phone number:</string>
+    <string name="label_locations_url">Locations url:</string>
+    <string name="label_directions_url">Directions url:</string>
+    <string name="label_plays_store">PlayStore url:</string>
+    <string name="label_vcf_url">Vcf url:</string>
+    <string name="label_ics_url">Ics url:</string>
+    <string name="label_wallet_url">Wallet url:</string>
+    <string name="label_image_url">Image url:</string>
+    <string name="label_email_recipient">Email recipient:</string>
+    <string name="label_email_subject">Email subject:</string>
+    <string name="label_email_body">Email body:</string>
+    <string name="label_deleting">Deleting</string>
+    <string name="label_v_card_string">vCardString:</string>
+
+    <!-- radio -->
+    <string name="radio_group_trigger_type">Trigger type:</string>
+    <string name="radio_option_instant">Instant</string>
+    <string name="radio_option_shake">Shake</string>
+
+    <string name="radio_group_xml_type">Xml type:</string>
+    <string name="radio_option_vast">VAST</string>
+    <string name="radio_option_extension">Extension</string>
+
+    <string name="radio_group_is_using_ad">Ad id:</string>
+    <string name="radio_option_yes">Yes</string>
+    <string name="radio_option_no">No</string>
+
+    <!-- errors -->
+    <string name="error_general_title">An error has happened</string>
+
+    <!-- Buttons -->
+    <string name="button_start">Start</string>
+    <string name="button_dismiss">Dismiss</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_add_built_in_urls">Add built in urls</string>
+
+    <!-- reports -->
+    <string name="report_success_adding_xml_from_url">Adding xml from url success</string>
+
+    <!-- unclassified strings -->
+    <string name="some_data">Some data</string>
+
+    <!-- newly added, move them to proper sections -->
+    <string name="placeholder_for_new_strings">move strings under this noe</string>
+
+    <!-- foregrounded service -->
+    <string name="session_foreground_service_notification_title">Mozim foreground session</string>
+    <string name="session_foreground_service_notification_content">Running</string>
+
+
+</resources>
